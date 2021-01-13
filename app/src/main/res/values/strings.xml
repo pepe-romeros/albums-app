@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlbumList</string>
+    <string name="album_name">Album Name</string>
+    <string name="album_id">Album ID: %s</string>
+</resources>
